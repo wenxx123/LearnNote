@@ -6,11 +6,21 @@
     <link>https://newzone.top/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Feb 2024 07:05:56 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Feb 2024 07:05:56 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Feb 2024 07:06:29 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Feb 2024 07:06:29 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
+    <item>
+      <title></title>
+      <link>https://newzone.top/posts/test.html</link>
+      <guid>https://newzone.top/posts/test.html</guid>
+      <source url="https://newzone.top/rss.xml"></source>
+      <description>test </description>
+      <pubDate>Tue, 27 Feb 2024 07:05:28 GMT</pubDate>
+      <content:encoded><![CDATA[<p>test</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>JsonTranslate 实用指南：怎样让你的项目说上 13 种语言？</title>
       <link>https://newzone.top/apps/devdocs/json-translate.html</link>
