@@ -3,10 +3,10 @@
 home: true
 layout: BlogHome
 icon: home
-title: 互联网小白
+title: 普通且不自信IT男
 #heroImage: /logo.svg
-heroText: 互联网小白
-tagline: 盛年不重来，一日难再晨
+heroText: 普通且不自信IT男
+tagline: 四十不惑，四十就不让嚯嚯了
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
 #projects:

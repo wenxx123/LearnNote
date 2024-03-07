@@ -1,5 +1,7 @@
 > 开源工具、效率方法、心理学探索的自我提升笔记
 
+本文内容是复制自https://newzone.top/#%F0%9F%8D%A5-%E6%90%AD%E5%BB%BA-learndata
+
 <!-- TABLE OF CONTENTS 有序为<ol>，无序为<ul> -->
 <details>
   <summary>Table of Contents</summary>
